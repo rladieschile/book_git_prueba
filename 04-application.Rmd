@@ -1,7 +1,14 @@
-# Applications
+# Aplicaciones
 
-Some _significant_ applications are demonstrated in this chapter.
+Aqui se presentan algunos ejericios para practicar
 
-## Example one
+## Ejemplo **FORK**
+
+**Situación:**
+Gato tiene en su cuenta de GitHub un repositorio llamado **mi_repo_genial** y Perro ha visto este repositorio y quiere colaborar.
+
+**Proceso de colaboración:**
+1. Perro debe hacer fork al repositorio de Gato
+
 
 ## Example two
