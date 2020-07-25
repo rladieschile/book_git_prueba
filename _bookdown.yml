@@ -1,0 +1,5 @@
+book_filename: "book_git_prueba"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
