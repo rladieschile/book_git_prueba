@@ -2,8 +2,9 @@
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 
-Hola chicas Rladies super power 
-Aquí dejo muestra del algún commit colaborativo
+
+NO SE SI FUNCIONA LA VERDAD AHORA
+
 
 Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
 
